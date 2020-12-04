@@ -1,0 +1,8 @@
+**  START   200
+**  LDA AL
+**  STA BL
+**  ADD CL
+AL  BYTE    2
+BL  RESW    3
+CL  RESB    4
+**  END **
