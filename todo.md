@@ -5,7 +5,6 @@
 > Yeetable
 
 - Saturday, Jun 19; Activity 5
-- Wednesday, Apr 7; Activity 1
 
 ## S6 CSE B NP Lab
 
@@ -13,9 +12,6 @@
 
 - Monday, Jun 28; Experiment 11
 - Monday, Jun 21; Experiment 9
-- Monday, Jun 14; Experiment 8
-- Monday, May 31; Experiment 6
-- Sunday, Apr 11; Experiment 1
 
 ## MPMC LAB 19-23 CSB
 
