@@ -25,10 +25,8 @@
 
 - Thursday, Jul 1; ASSIGNMENT
 - Wednesday, Jun 30; ASSIGNMENT
-- Thursday, Jun 10; Module 4
 - Tuesday, Jun 1; Black box testing
 - Thursday, May 27; Module 4
-- Wednesday, Apr 21; QUESTION PAPER MODULE 1&2
 
 ## S6 CSEA&B COMPUTER NETWORKS
 
@@ -42,8 +40,6 @@
 
 > Writing
 
-- Friday, Jun 11; Optimal Matrix chain multiplication- Tutorial
-- Thursday, May 27; Bell man ford - Tutorial
 - Friday, May 14; Properties of Asymptotic Notations
 - Friday, Mar 26; Frequency count method
 
