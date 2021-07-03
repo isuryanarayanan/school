@@ -2,9 +2,7 @@
 
 ## Web Technologies
 
-> Yeetable
-
-- Saturday, Jun 19; Activity 5
+> Done
 
 ## S6 CSE B NP Lab
 
@@ -18,13 +16,15 @@
 > Yeetable
 
 - Friday, Jun 25; Lab - 10
-- Thursday, Jun 24; Lab - 9
+- Thursday, Jun 24; Lab - 9; Finish program and upload
 - Thursday, May 27; WRITE AN ALP TO ACCEPT N NUMBERS, SORT AND DISPLAY IT.
 
 ## S6 CSE B (Anaswara Jayan)
 
 > Writing
 
+- Thursday, Jul 1; ASSIGNMENT
+- Wednesday, Jun 30; ASSIGNMENT
 - Thursday, Jun 10; Module 4
 - Tuesday, Jun 1; Black box testing
 - Thursday, May 27; Module 4

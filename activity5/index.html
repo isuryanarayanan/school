@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Activity 5</title>
+  </head>
+  <body>
+    <div id="demo"></div>
+    <div id="demo1"></div>
+  </body>
+  <script>
+    // Switch
+    var expression = 1;
+    switch (expression) {
+      case 1:
+        console.log("Case 1, " + expression);
+        break;
+      case 2:
+        console.log("Case 2, " + expression);
+        break;
+      default:
+        console.log("Default");
+    }
+    // Array methods
+    const arr = ["Elm1", "Elm2", "Elm3"];
+    arr.push("Elm4");
+    arr.pop();
+    document.getElementById("demo").innerHTML = arr.join(" * ");
+    document.getElementById("demo1").innerHTML = arr.toString();
+
+    // Two dimensional arrays
+    var twoDArr = [
+      [1, 2],
+      [3, 4],
+    ];
+
+    console.log(twoDArr[0][0]);
+    console.log(twoDArr[0][1]);
+    console.log(twoDArr[1][0]);
+    console.log(twoDArr[1][1]);
+  </script>
+</html>
