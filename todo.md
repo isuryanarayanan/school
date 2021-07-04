@@ -15,7 +15,6 @@
 
 > Yeetable
 
-- Friday, Jun 25; Lab - 10
 - Thursday, Jun 24; Lab - 9; Finish program and upload
 - Thursday, May 27; WRITE AN ALP TO ACCEPT N NUMBERS, SORT AND DISPLAY IT.
 
