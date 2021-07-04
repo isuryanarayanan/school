@@ -33,8 +33,6 @@
 > Writing
 
 - Thursday, Jun 24; Assignment 4
-- Thursday, Jun 17; Assignment 3
-- Friday, May 28; Assignment 2
 
 ## DAA(CS-B)
 
